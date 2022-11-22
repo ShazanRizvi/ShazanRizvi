@@ -8,7 +8,7 @@ Hi, I am Syed Mohammad and I have been training for being a MERN full stack deve
 
 * 🌍  I'm based in Gurgaon
 * ✉️  You can contact me at [shazanrizvi80@gmail.com](mailto:shazanrizvi80@gmail.com)
-* 🚀  I'm currently working on [bubble](bubble.io)
+* 🚀  I'm currently working on [bubble](https://www.bubble.io)
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on MERN Full stack projects
 
