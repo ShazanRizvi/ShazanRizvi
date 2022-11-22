@@ -6,12 +6,11 @@ MERN Full stack developer and Motion Graphics Editor
 
 Hi, I am Syed Mohammad and I have been training for being a MERN full stack developer and here are some of the projects which I have worked on previously.
 
-* 🌍  I'm based in Ghaziabad
-* 🖥️  See my portfolio at [PEXELBREAKER](http://shazanrizvi70.wixsite.com/my-site)
-* ✉️  You can contact me at [shazanrizvi70@gmail.com](mailto:shazanrizvi70@gmail.com)
-* 🚀  I'm currently working on [Stackroute training projects](http://wipro-login.stackroute.in)
+* 🌍  I'm based in Gurgaon
+* ✉️  You can contact me at [shazanrizvi80@gmail.com](mailto:shazanrizvi80@gmail.com)
+* 🚀  I'm currently working on [bubble](bubble.io)
 * 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on React and Full stack projects
+* 🤝  I'm open to collaborating on MERN Full stack projects
 
 ### Skills
 
