@@ -1,7 +1,7 @@
 Hi 👋 My name is Syed Mohammad Akhtar Rizvi
 ===========================================
 
-MERN Full stack developer||Bubble.io Developer
+MERN Full stack developer
 ----------------------------------------------------
 
 Hi, I am Syed Mohammad and I have been training for being a MERN full stack developer and here are some of the projects which I have worked on previously.
